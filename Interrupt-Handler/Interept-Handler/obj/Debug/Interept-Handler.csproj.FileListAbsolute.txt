@@ -16,3 +16,4 @@ C:\Users\TUSER\Documents\Visual Studio 2015\Projects\Interept-Handler\Interept-H
 C:\Users\TUSER\Documents\Visual Studio 2015\Projects\Interept-Handler\Interept-Handler\obj\Debug\Interept-Handler.csproj.GenerateResource.Cache
 C:\Users\TUSER\Documents\Visual Studio 2015\Projects\Interept-Handler\Interept-Handler\bin\Debug\Interept-Handler.exe
 C:\Users\TUSER\Documents\Visual Studio 2015\Projects\Interept-Handler\Interept-Handler\bin\Debug\Interept-Handler.pdb
+C:\Users\TUSER\Documents\Visual Studio 2015\Projects\Interept-Handler\Interept-Handler\obj\Debug\Interept_Handler.ProcessExeTimeSetter.resources

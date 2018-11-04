@@ -53,10 +53,19 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Process.cs" />
+    <Compile Include="ProcessExeTimeSetter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessExeTimeSetter.Designer.cs">
+      <DependentUpon>ProcessExeTimeSetter.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessExeTimeSetter.resx">
+      <DependentUpon>ProcessExeTimeSetter.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
